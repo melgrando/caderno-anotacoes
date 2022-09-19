@@ -18,5 +18,5 @@
 * *NPM Node Package eXecuter - executor de pacotes*
 
 * npm init --yes
-* npm install -D cypress
-* npx cypress open
+* npm install -D cypress (dependência de desenvolvimento)
+* npx cypress open (cria pastas e abre Cypress)
